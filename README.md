@@ -23,3 +23,19 @@ One thousand burning arrows
 Fill the starlit sky
 Выполните коммит.
 6. Смержите feature в master решив конфликт: сохраните все 4 строки в файле arrows.txt в порядке их добавления в пунктах 4 и 5.
+
+Данное задание выполняется после предыдущего (Bring It On).
+1. Создайте ветку storm и добавьте коммит в файл storm.txt:
+Twenty ships with Norsemen braves
+Riding the northern wind
+2. Добавьте еще 2 строки в storm.txt и сделайте еще один коммит:
+They left their shores at early dawn
+As a red sun was rising in the east
+3. Вернитесь в master и создайте файл pursuit.txt с текстом ниже:
+The warming sun returns again
+And melts away the snow
+The sea is freed from icy chains
+Winter is letting go
+Выполните коммит.
+4. Отметьте коммит тегом session1 и перейдите в ветку storm
+5. Сделайте rebase ветки storm так чтобы она содержала последний коммит из мастера.
